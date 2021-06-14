@@ -1,6 +1,6 @@
 ## Overview 🚀
 
-Updated profile and settings screens to match new design
+Give the brief about your changes
 
 ## How Has This Been Tested? 🚨
 
